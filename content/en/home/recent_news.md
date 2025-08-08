@@ -21,12 +21,13 @@ design:
   columns: '1'
 ---
 
-<div class="row">
-<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9">📍 Heading to Wenzhou, China, to attend the 5th International Conference on Big Data & Artificial Intelligence & Software Engineering at Wenzhou University of Technology.</div>
+1. **Our paper was accepted by CHI2024(CCF-A)!**
 
-<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9"> 📝 Paper accepted at ICBASE 2024: Dynamic Monitoring of Google Play Store Ranking Changes: Data Mining of Important Features.</div>
+2. **Our paper was accepted by ICME2025(CCF-B)!**
 
-<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9">📝 Manuscript accepted by Journal of Science and Informatization: Mitigating Hallucinations in Language Models: The Power of Knowledge Graphs.</div>
+3. **Our paper was accepted by Sensors**
 
-<div class="news-date col-3"> Sep 20, 2024</div> <div class="news-title  col-9">💼 Joined Wuhan Dobest Information Technology Co.,Ltd. as a Data Mining Engineer in the Data Science Group.</div>
-</div>
+4. **Our paper was accepted by ICCV2025(CCF-A)!**
+
+5. Our project on **Multi-Modal Driven 3D Emotional Digital Human** was approved by the **Beijing Natural Science Foundation (QRF)**.  RMB **50000** per year(**2025.6-2026.6**)
+

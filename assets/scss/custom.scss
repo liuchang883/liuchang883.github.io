@@ -45,7 +45,23 @@ body {
   }
 
   .pub-title {
-    font-weight: 400;
+    font-weight: bold;
+  }
+  .pub-icon {
+   font-size: 1rem;
+  }
+  .title-link {
+    color: #000000;
+  }
+  .stream-item:not(:last-child) {
+    margin-bottom: 4rem;
+  }
+
+  .pub-authors {
+    color: #666666;
+   strong {
+     font-weight: bold;
+   }
   }
 }
 

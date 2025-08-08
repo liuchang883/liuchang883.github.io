@@ -1,0 +1,50 @@
+pubs:
+
+
+
+  - image: "images/publications/p2.png"
+    title: "GCRayDiffusion: Pose-Free Surface Reconstruction via GeometricConsistent Ray Diffusion"
+    title_link: "https://arxiv.org/abs/2503.22349"
+    journal: "ICCV2025,CCF-A"
+    author_text: "Li-Heng Chen, Zi-Xin Zou, **Chang Liu**, Tianjiao Jing, Yan-Pei Cao, Shi-Sheng Huang, Hongbo Fu, Hua Huang"
+    year: 2025
+    links:
+
+
+  - image: "images/publications/p5.png"
+    title: "Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency"
+    title_link: ""
+    journal: "ICME2025,CCF-B"
+    title_extra_info: "(update 1month after conference)"
+    author_text: "Yu Cai, **Chang Liu**, Tianjiao Jing, Zhenxuan Lian, Shi-Sheng Huang, Hua Huang"
+    year: 2025
+    links:
+
+
+  - image: "images/publications/p1.png"
+    title: "Exploring experience gaps between active and passive users during multi-user locomotion in vr"
+    title_link: "https://dl.acm.org/doi/abs/10.1145/3613904.3641975"
+    journal: "CHI2024 oral,CCF-A"
+    author_text: "Tianren Luo, Fenglin Lu, Jiafu Lv, Xiaohui Tan, **Chang Liu**, Fangzhi Yan, Jin Huang, Chun Yu, Teng Han, Feng Tian"
+    year: 2024
+    links:
+
+
+  - image: "images/publications/p3.png"
+    title: "PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation"
+    title_link: ""
+    journal: "Under  Review"
+    author_text: "Wei Yao, Yunlian Sun, **Chang Liu**, Hongwen Zhang, Jinhui Tang"
+    year: 2024
+    links:
+
+  - image: "images/publications/p4.png"
+    title: "TSD-Net: A Traffic Sign Detection Network Addressing Insufficient Perception Resolution and Complex Background"
+    title_link: "https://www.mdpi.com/1424-8220/25/11/3511"
+    journal: "Sensors,jcr3"
+    author_text: "Chengcheng Ma, **Chang Liu**, Litao Deng, Pengfei Xu"
+    year: 2024
+    links:
+
+
+

@@ -19,20 +19,20 @@ design:
   view: compact
   columns: '1'
   
-email_text: 18562103826@163.com
+email_text: headcloud@163.com
   
 links:
   - name: "email"
-    url: "mailto: 18562103826@163.com"  
+    url: "mailto: headcloud@163.com"  
     icon: "fa-solid fa-envelope"
   
   - name: "github"
     url: "https://github.com/liuchang883"  
     icon: "fa-brands fa-github"
   
-  - name: "linkedin"
-    url: ""  
-    icon: "fa-brands fa-linkedin"
+  - name: "scholar"
+    url: "https://scholar.google.com/citations?user=apzLhpMAAAAJ&hl=en"  
+    icon: "fas fa-graduation-cap"
   
 ---
  

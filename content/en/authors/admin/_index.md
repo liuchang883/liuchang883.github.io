@@ -13,10 +13,10 @@ interests:
 
  
 organizations:
-- name: Tsinghua University
-  url: https://www.tsinghua.edu.cn/
+- name: Renmin University
+  url:  
   
-role: Master Student in Industrial Design
+role: PhD in AIM3 Lab
 
 
 email: "18562103826@163.com"
@@ -54,8 +54,11 @@ title:
 
 ---
 
-I am a master’s student in Industrial Design at Tsinghua University, where I explore how **interactive systems, game-based learning**, and **mixed reality** can be leveraged to support knowledge construction, emotional engagement, and behavior change. My work is grounded in a deep interest in **embodied interaction, educational technology**, and **human-centered design for emerging technologies**—particularly within the domains of science learning, child-AI interaction, and digital health.
 
-I have published in leading venues such as **CHI, HRI, HCII**, and **IASDR**, and have received multiple academic honors, including the **2025 Beijing Municipal Outstanding Graduate (Top 5%), 2024 Tsinghua University Outstanding First-Class Scholarship**, and the **2020 National Scholarship (Top 1%)**. My interdisciplinary background spans creative product design, physical computing, and immersive interaction, and I aim to continue pushing the boundaries of how design can translate abstract systems into meaningful and accessible experiences.
+Human-Computer Interaction & 3D Vision
 
-I am currently seeking Ph.D. opportunities starting in **Spring or Fall 2026**, focusing on the intersection of **design, interaction, and cognition** in educational or health-related contexts.
+I am a final-year undergraduate student in Artificial Intelligence at Beijing Normal University, advised by Prof. **Huang ShiSheng**([Shi-Sheng Huang's Homepage](https://shishenghuang.github.io/index/)),with a research focus on **multimodal interaction and 3D vision reconstruction** . The work of me bridges human-centered computing and generative AI, particularly animation and digital human technologies.
+
+**In September 2026**, I will join the **AIM3 Lab**([AIM3 Lab](https://www.ruc-aim3.com/)) at **Renmin University** as a **Ph.D. candidate**,Studied with **Prof. Jinqin**([Qin Jin - Google Scholar](https://scholar.google.com/citations?hl=en&user=8UkYbCMAAAAJ)), advancing my research in intelligent multimodal systems.
+
+**Contact My Email:** lc826@mail.bnu.edu.cn or headcloud@163.com

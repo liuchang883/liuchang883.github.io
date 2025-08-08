@@ -3,7 +3,9 @@
 {{ $st := . }}
 
 
-{{- $query :=  sort $st.Params.pubs_list "year" "desc" -}}
+{{- $publications := site.Data.publications.pubs -}}
+
+{{- $publications :=  sort $publications "year" "desc" -}}
 
 
 
@@ -19,7 +21,7 @@
     <div class="pub-list-wrap pb-5">
 
         {{- $year_flag := "" -}}
-      {{ range $st.Params.pubs_list }}
+      {{ range $publications }}
 
 
         {{if ne $year_flag .year }}
@@ -32,13 +34,19 @@
       <div class="media stream-item view-compact" style="align-items: stretch;">
         <div class="media-body">
 
-
-          <div>
-              <i class="far fa-file-alt pub-icon" ></i>
-            <span class="pub-author">{{ .authors  | markdownify | emojify }}</span>.
-            <span class="pub-title">{{ .title  | markdownify | emojify }}</span>.
-            {{ with .journal }}<span class="pub-journal">{{ . | markdownify | emojify }}</span> {{ end }}
+          <div class=" pub-title mb-0 mt-0">
+            <i class="far fa-file-alt pub-icon" ></i>
+            {{with .title_link}}<a class="title-link" href="{{ . }}">{{end}}
+              {{ .title }}
+              {{with .journal}}<span class="journal"  >({{ . | markdownify}})</span>{{end}}
+              {{with .title_extra_info}}<span class="title-extra-info"  >{{ . | markdownify}}</span>{{end}}
+            {{with .title_link}}</a>{{end}}
           </div>
+
+          <div class="  pub-authors">
+            {{ .author_text | markdownify }}.
+          </div>
+
             {{with .links}}
               <div class="btn-links">
                   {{ range $idx, $item := . }}
@@ -51,9 +59,9 @@
             {{end}}
 
         </div>
-       {{/* <div class="ml-3 home-prj-img-icon-wrap">
-            {{ with .image }} <img src="{{ . }}" class="home-project-icon-image" loading="lazy" /> {{ end }}
-        </div>*/}}
+        <div class="ml-3 home-prj-img-icon-wrap">
+            {{ with .image }} <img src="{{ . | relURL }}" class="home-project-icon-image" loading="lazy" /> {{ end }}
+        </div>
       </div>
       {{ end }}
 
