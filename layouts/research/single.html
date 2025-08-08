@@ -1,0 +1,43 @@
+{{- define "main" -}}
+
+{{ $page := . }}
+{{ $featured := (.Resources.ByType "image").GetMatch "*featured*" }}
+{{ $title := .Title }}
+
+
+<article class="article article-research">
+
+  {{/* partial "page_header.html" . */}}
+
+
+  <div class="article-container pt-3">
+    <h1>{{ $title }}</h1>
+
+    {{ with $page.Params.subtitle }}
+    <p class="page-subtitle">{{ . | markdownify | emojify }}</p>
+    {{end}}
+
+  </div>
+
+  {{/* Featured image */}}
+  <div class="article-header  article-container mt-4 mb-4" >
+    <div style="position: relative">
+      <img src="{{ $featured.RelPermalink }}"  class="featured-image" />
+    </div>
+  </div>
+
+
+  <div class="article-header">
+  </div>
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+  </div>
+</article>
+{{- end -}}

@@ -1,0 +1,35 @@
+{{ $st := .page }}
+{{ $columns := $st.Params.design.columns | default "2" }}
+
+
+{{/*
+{{ if ne $columns "1" }}
+  <div class="col-12 col-lg-8">
+    {{ $st.Content }}
+  </div>
+{{ else }}
+  <div class="col-12">
+    {{ $st.Content }}
+  </div>
+{{ end }}
+*/}}
+
+
+<div class="home-bottom-wrap">
+
+<div class="social-links">
+  {{with $st.Params.links}}
+  <div class="btn-links">
+    {{ range $idx, $item := . }}
+    <a class=""
+       title="{{ $item.name  }}"
+       href="{{ $item.url }}">
+      <i class=" {{ $item.icon }}  "></i>
+    </a>
+    {{end}}
+  </div>
+  {{end}}
+
+</div>
+<div  class="home-bottom-email-text">{{ $st.Params.email_text  }}</div>
+</div>
