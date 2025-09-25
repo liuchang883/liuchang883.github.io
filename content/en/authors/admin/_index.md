@@ -59,6 +59,6 @@ Human-Computer Interaction & 3D Vision
 
 I am a final-year undergraduate student in Artificial Intelligence at Beijing Normal University, advised by Prof. **Huang ShiSheng**([Shi-Sheng Huang's Homepage](https://shishenghuang.github.io/index/)),with a research focus on **multimodal interaction and 3D vision reconstruction** . The work of me bridges human-centered computing and generative AI, particularly animation and digital human technologies.
 
-**In September 2026**, I will join the **AIM3 Lab**([AIM3 Lab](https://www.ruc-aim3.com/)) at **Renmin University** as a **Ph.D. candidate**,Studied with **Prof. Jinqin**([Qin Jin - Google Scholar](https://scholar.google.com/citations?hl=en&user=8UkYbCMAAAAJ)), advancing my research in intelligent multimodal systems.
+**In September 2026**, I will join the **AIM3 Lab**([AIM3 Lab](https://www.ruc-aim3.com/)) at **Renmin University** as a **Ph.D. candidate**,Studied with **Prof. Jinqin**([Qin Jin - Google Scholar](https://scholar.google.com/citations?hl=en&user=8UkYbCMAAAAJ)), advancing my research in intelligent multimodal systems and Embodied AI .
 
 **Contact My Email:** lc826@mail.bnu.edu.cn or headcloud@163.com
