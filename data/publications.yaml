@@ -1,6 +1,12 @@
 pubs:
 
-
+  - image: "images/publications/pub6.png"
+    title: "EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head"
+    title_link: "https://arxiv.org/pdf/2512.05991"
+    journal: "Under Review"
+    author_text: "Li-Heng Chen, Zi-Xin Zou, **Chang Liu**, Tianjiao Jing, Yan-Pei Cao, Shi-Sheng Huang, Hongbo Fu, Hua Huang"
+    year: 2025
+    links:
 
   - image: "images/publications/p2.png"
     title: "GCRayDiffusion: Pose-Free Surface Reconstruction via GeometricConsistent Ray Diffusion"
