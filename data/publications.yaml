@@ -1,6 +1,6 @@
 pubs:
 
-  - image: "images/publications/pub6.png"
+  - image: "images/pub6.png"
     title: "EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head"
     title_link: "https://arxiv.org/pdf/2512.05991"
     journal: "Under Review"
