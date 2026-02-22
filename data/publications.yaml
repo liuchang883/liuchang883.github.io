@@ -3,7 +3,7 @@ pubs:
   - image: "images/publications/p6.png"
     title: "EmoDiffTalk:Emotion-aware Diffusion for Editable 3D Gaussian Talking Head"
     title_link: "https://arxiv.org/pdf/2512.05991"
-    journal: "Under Review"
+    journal: "IEEE CVPR2026"
     author_text: "**Chang Liu**, Tianjiao Jing, Chengcheng Ma, Xuanqi Zhou, Zhengxuan Lian, Qin Jin, Hongliang Yuan, Shi-Sheng Huang"
     year: 2025
     links:
