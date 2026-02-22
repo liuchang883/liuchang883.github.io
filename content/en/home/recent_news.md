@@ -30,4 +30,5 @@ design:
 4. **Our paper was accepted by ICCV2025(CCF-A)!**
 
 5. Our project on **Multi-Modal Driven 3D Emotional Digital Human** was approved by the **Beijing Natural Science Foundation (QRF)**.  RMB **50000** per year(**2025.6-2026.6**)
+6. **Our paper was accepted by CVPR2026(CCF-A)!**
 
