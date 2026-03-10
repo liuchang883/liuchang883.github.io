@@ -6,7 +6,7 @@ pubs:
     journal: "CVPR2026,CCF-A"
     author_text: "**Chang Liu**, Tianjiao Jing, Chengcheng Ma, Xuanqi Zhou, Zhengxuan Lian, Qin Jin, Hongliang Yuan, Shi-Sheng Huang"
     year: 2025
-    links:
+    links: https://arxiv.org/abs/2512.05991
 
   - image: "images/publications/p2.png"
     title: "GCRayDiffusion: Pose-Free Surface Reconstruction via GeometricConsistent Ray Diffusion"
@@ -14,17 +14,16 @@ pubs:
     journal: "ICCV2025,CCF-A"
     author_text: "Li-Heng Chen, Zi-Xin Zou, **Chang Liu**, Tianjiao Jing, Yan-Pei Cao, Shi-Sheng Huang, Hongbo Fu, Hua Huang"
     year: 2025
-    links:
+    links: https://openaccess.thecvf.com/content/ICCV2025/html/Chen_GCRayDiffusion_Pose-Free_Surface_Reconstruction_via_Geometric_Consistent_Ray_Diffusion_ICCV_2025_paper.html
 
 
   - image: "images/publications/p5.png"
     title: "Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency"
     title_link: ""
     journal: "ICME2025,CCF-B"
-    title_extra_info: "(update 1month after conference)"
     author_text: "Yu Cai, **Chang Liu**, Tianjiao Jing, Zhenxuan Lian, Shi-Sheng Huang, Hua Huang"
     year: 2025
-    links:
+    links: https://ieeexplore.ieee.org/abstract/document/11210132/
 
 
   - image: "images/publications/p1.png"
@@ -33,7 +32,7 @@ pubs:
     journal: "CHI2024 oral,CCF-A"
     author_text: "Tianren Luo, Fenglin Lu, Jiafu Lv, Xiaohui Tan, **Chang Liu**, Fangzhi Yan, Jin Huang, Chun Yu, Teng Han, Feng Tian"
     year: 2024
-    links:
+    links: https://dl.acm.org/doi/abs/10.1145/3613904.3641975
 
 
   - image: "images/publications/p3.png"
@@ -42,7 +41,7 @@ pubs:
     journal: "Under  Review"
     author_text: "Wei Yao, Yunlian Sun, **Chang Liu**, Hongwen Zhang, Jinhui Tang"
     year: 2024
-    links:
+    links: https://arxiv.org/abs/2506.07456
 
   - image: "images/publications/p4.png"
     title: "TSD-Net: A Traffic Sign Detection Network Addressing Insufficient Perception Resolution and Complex Background"
