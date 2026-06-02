@@ -17,8 +17,8 @@ pubs:
     author_text: "Li-Heng Chen, Zi-Xin Zou, **Chang Liu**, Tianjiao Jing, Yan-Pei Cao, Shi-Sheng Huang, Hongbo Fu, Hua Huang"
     year: 2025
     links:
-      - name: "Project"
-        url: "https://cvpr.thecvf.com/virtual/2026/poster/38745"
+      - name: "pdf"
+        url: "https://openaccess.thecvf.com/content/ICCV2025/papers/Chen_GCRayDiffusion_Pose-Free_Surface_Reconstruction_via_Geometric_Consistent_Ray_Diffusion_ICCV_2025_paper.pdf"
 
   - image: "images/publications/p5.png"
     title: "Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency"
