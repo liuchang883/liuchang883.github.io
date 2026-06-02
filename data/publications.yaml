@@ -7,7 +7,8 @@ pubs:
     author_text: "**Chang Liu**, Tianjiao Jing, Chengcheng Ma, Xuanqi Zhou, Zhengxuan Lian, Qin Jin, Hongliang Yuan, Shi-Sheng Huang"
     year: 2025
     links:
-      - https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_EmoDiffTalk_Emotion-aware_Diffusion_for_Editable_3D_Gaussian_Talking_Head_CVPR_2026_paper.pdf
+      - name: "PDF"
+        url: "https://openaccess.thecvf.com/content/CVPR2026/papers/Liu_EmoDiffTalk_Emotion-aware_Diffusion_for_Editable_3D_Gaussian_Talking_Head_CVPR_2026_paper.pdf"
 
   - image: "images/publications/p2.png"
     title: "GCRayDiffusion: Pose-Free Surface Reconstruction via Geometric Consistent Ray Diffusion"
@@ -16,7 +17,8 @@ pubs:
     author_text: "Li-Heng Chen, Zi-Xin Zou, **Chang Liu**, Tianjiao Jing, Yan-Pei Cao, Shi-Sheng Huang, Hongbo Fu, Hua Huang"
     year: 2025
     links:
-      - https://cvpr.thecvf.com/virtual/2026/poster/38745
+      - name: "Project"
+        url: "https://cvpr.thecvf.com/virtual/2026/poster/38745"
 
   - image: "images/publications/p5.png"
     title: "Self-Supervised Depth Completion Guided by 3D Perception and Geometry Consistency"
@@ -25,16 +27,18 @@ pubs:
     author_text: "Yu Cai, **Chang Liu**, Tianjiao Jing, Zhenxuan Lian, Shi-Sheng Huang, Hua Huang"
     year: 2025
     links:
-      - https://ieeexplore.ieee.org/abstract/document/11210132/
+      - name: "IEEE"
+        url: "https://ieeexplore.ieee.org/abstract/document/11210132/"
 
   - image: "images/publications/p1.png"
     title: "Exploring Experience Gaps Between Active and Passive Users During Multi-User Locomotion in VR"
     title_link: "https://dl.acm.org/doi/abs/10.1145/3613904.3641975"
-    journal: "CHI2024 oral, CCF-A"
+    journal: "CHI2024 Oral, CCF-A"
     author_text: "Tianren Luo, Fenglin Lu, Jiafu Lv, Xiaohui Tan, **Chang Liu**, Fangzhi Yan, Jin Huang, Chun Yu, Teng Han, Feng Tian"
     year: 2024
     links:
-      - https://dl.acm.org/doi/abs/10.1145/3613904.3641975
+      - name: "ACM"
+        url: "https://dl.acm.org/doi/abs/10.1145/3613904.3641975"
 
   - image: "images/publications/p3.png"
     title: "PhysiInter: Integrating Physical Mapping for High-Fidelity Human Interaction Generation"
@@ -43,7 +47,8 @@ pubs:
     author_text: "Wei Yao, Yunlian Sun, **Chang Liu**, Hongwen Zhang, Jinhui Tang"
     year: 2024
     links:
-      - https://arxiv.org/abs/2506.07456
+      - name: "arXiv"
+        url: "https://arxiv.org/abs/2506.07456"
 
   - image: "images/publications/p4.png"
     title: "TSD-Net: A Traffic Sign Detection Network Addressing Insufficient Perception Resolution and Complex Background"
@@ -51,4 +56,6 @@ pubs:
     journal: "Sensors, JCR3"
     author_text: "Chengcheng Ma, **Chang Liu**, Litao Deng, Pengfei Xu"
     year: 2024
-    links: []
+    links:
+      - name: "Paper"
+        url: "https://www.mdpi.com/1424-8220/25/11/3511"
