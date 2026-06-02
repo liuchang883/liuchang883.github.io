@@ -8,3 +8,5 @@ subtitle:
 - **First-Class Scholarship, Beijing Normal University, Beijing**(**北京师范大学京师一等奖学金**)
 
 - **First Prize of 2023 National College Student Mathematics Competition**（**2023全国大学生数学竞赛一等奖**）
+
+- **Outstanding Bachelor Graduate of Beijing**（北京市优秀毕业生）
